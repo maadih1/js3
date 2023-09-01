@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #fd7272; /* Choose your preferred background color */
+}
+
+.timer {
+    margin-top: 50px;
+}
+
+#display {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: 1em;
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #3498db; /* Background color for buttons */
+    color: white; /* Text color for buttons */
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #2980b9; /* Hover background color for buttons */
+}
